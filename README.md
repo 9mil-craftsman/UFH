@@ -1,4 +1,4 @@
-This mod lets you kill all the niggers amongst other things
+This mod lets you kill all the [REDACTED] amongst other things
 managed by the anarcho-syndicalist commune of v2g
 
 please contribute whatever you want since this mod doesnt actually do anything yet
@@ -23,4 +23,4 @@ Will probably add pics soon if I ever figure out how to
 
 please PLEASe keep a complete version of your mod when doing changes and doing pull requests
 what i mean is uh have everything you need for the mod to work, the common folder, history, gfx, etc. then just change around the shit you want to change
-so uhhhhhh yeah just like dont have it so the only thing in your folder is decisions/kill_all_the_niggers.txt
+so uhhhhhh yeah just like dont have it so the only thing in your folder is decisions/kill_all_the_*******.txt
